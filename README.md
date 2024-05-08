@@ -16,4 +16,8 @@ Each file's purpose and products are listed below:
 
 5) player_rate.r gives the code that gives the unweighted rates of each player in each game. rate.ipynb shows the code that gives the players different weights and gives the table that shows the rate of different players under each type of weight.
 
-6) Final Players Choose.ipynb shows the code that choose players for the final roster. The result is not exported but can be found by running the code.  
+6) Final Players Choose.ipynb shows the code that choose players for the final roster. The result is not exported but can be found by running the code.
+
+## Seminar
+* Transitional AI seminar series: https://www.youtube.com/watch?v=FMmU9Ta_ICQ
+  
